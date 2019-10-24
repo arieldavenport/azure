@@ -1,0 +1,2 @@
+# azure
+ramdom azure scripts
